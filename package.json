@@ -1,7 +1,7 @@
 {
-  "name": "intro-component-with-signup-form",
+  "name": "html-scss-starter-template",
   "version": "1.0.0",
-  "description": "Frontend Mentor project for an Intro Component with Sign Up Form",
+  "description": "Starter template for HTML-SCSS project",
   "main": "index.js",
   "author": "Elroy Toscano",
   "license": "MIT",
